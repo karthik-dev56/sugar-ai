@@ -1,4 +1,9 @@
 # Sugar-AI model evaluation — Llama-3.2-3B-Instruct
+## Screenshots
+1. <img width="1406" height="194" alt="llama1" src="https://github.com/user-attachments/assets/a0120088-001e-47be-8e3d-b8e1b707f3a8" />
+2. <img width="1432" height="281" alt="llama2" src="https://github.com/user-attachments/assets/59908ac6-d0a4-4b77-82fe-42930168a75f" />
+3. <img width="1423" height="325" alt="llama3" src="https://github.com/user-attachments/assets/1e90577c-cfa3-453c-8d19-896bbb6b4fff" />
+
 
 ## 1) Model information
 
