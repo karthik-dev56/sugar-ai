@@ -1,4 +1,9 @@
 # Sugar-AI model evaluation — Mistral-7B-Instruct-v0.3
+## Screenshots
+1. <img width="1400" height="197" alt="mistral-1" src="https://github.com/user-attachments/assets/f636497e-5b78-42de-b83c-b04863d79775" />
+2. <img width="1418" height="289" alt="mistral2" src="https://github.com/user-attachments/assets/d244d9c8-682f-422d-b77d-b17cbf6a7566" />
+3. <img width="1413" height="339" alt="mistral3" src="https://github.com/user-attachments/assets/00f6b0bd-1981-4687-b7e6-32a2a502633b" />
+
 
 ## 1) Model information
 
