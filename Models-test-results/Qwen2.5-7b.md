@@ -1,4 +1,9 @@
 # Sugar-AI model evaluation — Qwen2.5-7B-Instruct
+## Screenshots
+1. <img width="1409" height="227" alt="Screenshot from 2026-05-08 18-17-26" src="https://github.com/user-attachments/assets/fea9ccba-6869-4474-800c-c1fa11ac9295" />
+2. <img width="1418" height="296" alt="Screenshot from 2026-05-08 18-19-18" src="https://github.com/user-attachments/assets/dec4f387-1d76-49d1-85ff-653909d4b9fb" />
+3. <img width="1411" height="331" alt="Screenshot from 2026-05-08 18-21-23" src="https://github.com/user-attachments/assets/234a7e3a-cb40-4e59-97ac-eb0e96afef62" />
+
 
 ## 1) Model information
 
