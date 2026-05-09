@@ -1,4 +1,10 @@
 # Sugar-AI model evaluation — Phi-3.5-mini-instruct
+## Screenshots
+1.<img width="1420" height="213" alt="phi-mc" src="https://github.com/user-attachments/assets/076c4b0a-00d8-429b-92f9-c7773d3f18cf" />
+2. <img width="1410" height="274" alt="phi-mc1" src="https://github.com/user-attachments/assets/d016c3d1-f464-4dff-91ef-eb9a09e24340" />
+3. <img width="1415" height="381" alt="phi-mc3" src="https://github.com/user-attachments/assets/4df3a204-f160-43d6-b3e4-2bf8fbd72974" />
+
+
 
 ## 1) Model information
 
