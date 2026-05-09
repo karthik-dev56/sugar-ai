@@ -1,5 +1,5 @@
 # Sugar-AI model evaluation — Gemma-2-2B-it
-##Screenshots
+## Screenshots
 1. <img width="1406" height="200" alt="gemma1" src="https://github.com/user-attachments/assets/f27c982d-e679-4cb9-a427-8066e6f2fff7" />
 2. <img width="1417" height="279" alt="gemma2" src="https://github.com/user-attachments/assets/4b0bdf33-97bf-4c1f-aad2-bdcd04e82693" />
 3. <img width="1418" height="364" alt="gemma3" src="https://github.com/user-attachments/assets/dadf8b3a-338a-42c6-92ed-a8df9fd15ebc" />
